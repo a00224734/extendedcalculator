@@ -1,0 +1,18 @@
+C:\Users\Sony\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\Sony\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\Sony\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\Sony\source\repos\Calculator\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.deps.json
+C:\Users\Sony\source\repos\Calculator\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.dll
+C:\Users\Sony\source\repos\Calculator\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.pdb
+C:\Users\Sony\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.dll
+C:\Users\Sony\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.pdb
+C:\Users\Sony\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+G:\1. WEB1001\Assignments\2. Extended Calculator App\repos\Calculator\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.deps.json
+G:\1. WEB1001\Assignments\2. Extended Calculator App\repos\Calculator\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.dll
+G:\1. WEB1001\Assignments\2. Extended Calculator App\repos\Calculator\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.pdb
+G:\1. WEB1001\Assignments\2. Extended Calculator App\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.csprojAssemblyReference.cache
+G:\1. WEB1001\Assignments\2. Extended Calculator App\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfoInputs.cache
+G:\1. WEB1001\Assignments\2. Extended Calculator App\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfo.cs
+G:\1. WEB1001\Assignments\2. Extended Calculator App\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+G:\1. WEB1001\Assignments\2. Extended Calculator App\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.dll
+G:\1. WEB1001\Assignments\2. Extended Calculator App\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.pdb
